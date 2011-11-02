@@ -14,7 +14,7 @@
 // Scott Cowan http://userscripts.org/users/32932
 
 (function() {
-  var ids = ["gb", "top-bar"];
+  var ids = ["top-bar", "lhn-add-subscription-section"];
 
   function toggle_gr ()
   {
